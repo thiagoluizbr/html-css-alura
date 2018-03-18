@@ -1,0 +1,11 @@
+h1{
+    font-size: 60px ;
+    background-color: rgb(120,30,60);
+    text-align: center;
+    color: rgb(255,255,255);
+    font-family: "Arial";
+}
+h2{
+    font-size: 40px ;
+    font-family: "Arial","sans-serif";
+}
