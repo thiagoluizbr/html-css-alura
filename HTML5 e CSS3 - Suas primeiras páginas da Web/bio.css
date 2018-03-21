@@ -1,11 +1,29 @@
-main h1{
-    font-size: 60px ;
-    background-color: rgb(120,30,60);
-    text-align: center;
-    color: rgb(255,255,255);
-    font-family: "Arial";
+body{
+    background-color: #F2FFFC;
+    font-family: "Crimsons Text", serif;
+    font-size: 20px;
+    line-height: 1.5;
 }
-h2{
-    font-size: 40px ;
-    font-family: "Arial","sans-serif";
+main h1 {
+    font-size: 60px;
+    background-color: #851944;
+    text-align: center;
+    font-family: "Open Sans Condensed", sans-serif;
+    padding: 25px;
+    margin: 0;
+}
+h2 {
+    font-size: 40px;
+    font-family: "Open Sans Condensed", sans-serif;
+}
+p {
+    text-align: justify
+}
+blockquote {
+    background-color: #D3DDDA;
+    padding: 20px;
+    border: 10px solid #C2CCCA;
+    width: 250px;
+    margin: 0;
+    box-sizing: border-box;
 }
