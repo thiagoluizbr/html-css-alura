@@ -23,7 +23,7 @@ p{
 blockquote {
     background-color: #D9E5E3;
     padding: 16px;
-    margin: 20px 40px;
+    margin: 0;
 }
 
 aside {
@@ -74,4 +74,7 @@ strong{
 }
 em{
     font-style: italic;
+}
+aside li {
+    display: inline-block;
 }

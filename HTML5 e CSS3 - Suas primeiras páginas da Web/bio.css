@@ -22,7 +22,7 @@ p {
 }
 blockquote {
     background-color: #D3DDDA;
-    padding: 20px;
+    padding: 0;
     border: 10px solid #C2CCCA;
     width: 250px;
     margin: 0;
