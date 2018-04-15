@@ -11,6 +11,7 @@ main h1 {
     font-family: "Open Sans Condensed", sans-serif;
     padding: 25px;
     margin: 0;
+    text-transform: uppercase;
 }
 h2 {
     font-size: 40px;

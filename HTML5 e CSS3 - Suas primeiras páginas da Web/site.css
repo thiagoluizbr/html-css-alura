@@ -74,7 +74,7 @@ em{
 .social-rodape {
     margin: 60px;
 }
-#rodape-pagina {
+.rodape-pagina {
     background-color: #000;
     color: #F2FFFC;
     padding: 20px;
@@ -91,4 +91,28 @@ article{
     font-size: 24px;
     text-align: center;
     background-color: #E6E7E8;
+}
+.github{
+     background-image: url(github.png);
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    text-indent: -9999px;
+}
+.twitter{
+     background-image: url(twitter.png);
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    text-indent: -9999px;
+}
+.linkedin{
+     background-image: url(linkedin.png);
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    text-indent: -9999px;
+}
+nav a {
+    text-transform: lowercase;
 }
