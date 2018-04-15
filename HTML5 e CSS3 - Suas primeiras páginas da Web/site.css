@@ -15,6 +15,7 @@ main h1{
 h2{
     font-family: "Open Sans Condensed", sans-serif;
     font-size: 30px;
+    clear: both;
 }
 p{
     text-align: justify;
@@ -51,8 +52,8 @@ div {
     
     margin-left: auto;
     margin-right: auto;
-    border-left: 30px solid red;
-    border-bottom: 30px solid red;
+    border-left: 30px solid transparent;
+    border-bottom: 30px solid transparent;
     border-top: 30px solid transparent;
     border-right: 30px solid transparent;
     width: 0;
@@ -115,4 +116,31 @@ article{
 }
 nav a {
     text-transform: lowercase;
+}
+.container{
+    width: 970px;
+    height: auto;
+    margin: auto;
+}
+.fiat{
+    float: right;
+}
+.petrobras {
+    float: left;
+}
+aside, img {
+    float: right;
+    width: 15%;
+}
+aside{
+    clear: right;
+    width: 15%;
+    box-sizing: border-box;
+}
+main{
+    float: left;
+    width: 85%;
+}
+footer{
+    clear: both;
 }
