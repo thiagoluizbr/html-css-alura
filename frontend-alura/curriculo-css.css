@@ -1,0 +1,17 @@
+            h2{
+                background-color: #5599DD;
+                color: #DDDDDD;
+                padding-top: 5px;
+            }
+            .exp{
+                text-indent: 50px; 
+            }
+            body{
+                font-family: Ubuntu, Helvetica;
+                width: 940px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            #cabecalho{
+                text-align: center;
+            }
